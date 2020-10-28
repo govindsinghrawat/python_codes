@@ -30,7 +30,7 @@ strs[i] consists of only lower-case English letters.
 ##########
 #Solution#
 ##########
-        class Solution:
+class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         result_prefix = ""
         
